@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,kablo info
-https://kbl-chnls-m3u.tecostream.workers.dev/Kablo_Info.php
 #EXTINF:-1,SİNEMA TV
 https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
 #EXTINF:-1,SİNEMA AKSİYON
@@ -13,6 +11,92 @@ https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
 https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
 #EXTINF:-1,SİNEMA KOMEDİ
 https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL STAR
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TELE 19
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL 6
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",FLASH DİZİ
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",SHOX TV
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
+https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",DİNİ CHANNEL
+https://a8.radyotelekom.com.tr:3513/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",YANSIMA SİNEMA HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",PLAY TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",SKY HABER
+https://cdn4.yayin.com.tr/skyhabertv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Torba Tv
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title=",Anadolu Dost
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",isviçre Tv
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/htnDXBkP/In-Shot-20250428-070125172.png",HOÇWAN TV ᵏᵃᵑᵏᵃ
+https://ip100.radyotelekomtv.com:3593/stream/play.m3u8
+
+#EXTINF:-1 tvg-chno="7",DENİZ POSTASI
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="tv logo" group-title="⚡Sinevizyon",Tivi Turk
+https://canlitvulusal.xyz/live/tiviturk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE5  
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w500655317.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE6  
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINEMAX 6 
+https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_TV
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SUPERTURK_MAX 
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",CINE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1,TRT 1
 https://kbl-chnls-m3u.tecostream.workers.dev/Trt_1.php
 #EXTINF:-1,ATV
